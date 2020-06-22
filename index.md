@@ -15,4 +15,3 @@
 [Exercise 5.20](https://fhnishida.github.io/homework/ex_5-20_Dadvison-MacKinnon.html)
 <br>
 [Exercise 8.28](https://fhnishida.github.io/homework/ex_8-28_Dadvison-MacKinnon.html)
-
