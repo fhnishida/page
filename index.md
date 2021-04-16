@@ -1,8 +1,9 @@
 # Macroeconomia I (2021) - Monitoria
 
 ## 20/04/2021
-[Conteúdo](https://fhnishida.github.io/pages/Monitoria.py)
-[Código Python](https://fhnishida.github.io/pages/Monitoria.py)
+[Conteúdo](https://fhnishida.github.io/page/Monitoria.py)
+<br>
+[Código Python](https://fhnishida.github.io/page/Monitoria.py)
 
 
 # Davidson & MacKinnon. Econometric Theory and Methods. (1999)
