@@ -1,8 +1,6 @@
 # Macroeconomia I (2021) - Monitoria
 
 ## 20/04/2021 - Introdução ao Python (Parte 1)
-[Conteúdo](https://fhnishida.github.io/page/Monitoria.py)
-<br>
 [Código Python](https://fhnishida.github.io/page/Monitoria.py)
 
 
