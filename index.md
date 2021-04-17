@@ -3,6 +3,8 @@
 ## 20/04/2021 - Introdução ao Python (Parte 1)
 [Código Python](https://fhnishida.github.io/page/Monitoria.py)
 
+Conteúdo Complementar:
+- [Teste](https://fhnishida.github.io/homework/ex_3-1_Dadvison-MacKinnon.html)
 
 <br><br>
 # Davidson & MacKinnon. Econometric Theory and Methods. (1999)
