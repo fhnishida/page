@@ -4,7 +4,7 @@
 [Código Python](https://fhnishida.github.io/page/Monitoria.py)
 
 Conteúdo Complementar:
-- [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html). Sugestão: Standalone Installer ou Anaconda.
+- [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html). Sugestão: via Standalone Installer ou Anaconda.
 
 <br><br>
 # Davidson & MacKinnon. Econometric Theory and Methods. (1999)
