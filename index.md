@@ -1,6 +1,8 @@
 # Macroeconomia I (2021) - Monitoria
 [Página da Disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada pelo prof. Fernando Barros Jr
 
+Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
+<br>
 
 ## 20/04/2021 - Introdução ao Python (Parte 1)
 [Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
