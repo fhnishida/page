@@ -1,7 +1,7 @@
 # Macroeconomia I (2021) - Monitoria
 
 ## 20/04/2021 - Introdução ao Python (Parte 1)
-[Código Python](https://fhnishida.github.io/page/Monitoria.py)
+[Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
 
 Conteúdo Complementar:
 - [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html) (sugestão: instalar via Standalone Installer ou Anaconda)
