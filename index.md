@@ -10,7 +10,6 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 Conteúdo Complementar:
 - [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html) (Sugestão: instalar via Standalone Installer ou Anaconda)
 - [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
-- [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
 <br><br>
 # Davidson & MacKinnon. Econometric Theory and Methods. (1999)
