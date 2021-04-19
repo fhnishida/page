@@ -1,5 +1,5 @@
 # Macroeconomia I (2021) - Monitoria
-[Página principal da disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada pelo prof. Fernando Barros Jr
+[Página da Disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada pelo prof. Fernando Barros Jr
 
 
 ## 20/04/2021 - Introdução ao Python (Parte 1)
