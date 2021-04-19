@@ -4,7 +4,7 @@
 [Código Python](https://fhnishida.github.io/page/Monitoria.py)
 
 Conteúdo Complementar:
-- [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html). Sugestão: via Standalone Installer ou Anaconda.
+- [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html) (sugestão: instalar via Standalone Installer ou Anaconda)
 - [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
