@@ -3,10 +3,9 @@
 Monitoria 1 de Macroeconomia I (Parte 1) de 2021
 20/04/2021 - author: Fábio Nishida
 
-Baseado nos cursos "Introdução à Ciência da Computação com Python Partes 1 e 2"
+Baseado nos cursos "Introdução à Ciência da Computação com Python Parte 1"
 de Fabio Kon (IME-USP) no Coursera (gratuitos para visualização)
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
-https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2
 
 Caso tenha interesse, comunidade USP pode pegar o certificado sem pagar o curso:
 https://jornal.usp.br/universidade/nova-parceria-oferece-mais-cursos-on-line-a-comunidade-usp-na-plataforma-coursera/
@@ -247,6 +246,7 @@ temperaturaCelsius
 
 # Criação de uma função com o cálculo anterior, com um parâmetro
 def Calcular_Temperatura_Celsius(tempFarenheit):
+    
     return (tempFarenheit - 32) * 5 / 9
 
 # tempFarenheit é uma variável "temporária" que só funcionada dentro da função
