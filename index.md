@@ -5,7 +5,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
-## 27/04/2021 - Introdução ao Python (Parte 2)
+### 27/04/2021 - Introdução ao Python (Parte 2)
 [Código Python](https://fhnishida.github.io/page/Monitoria-2.py)
 
 Conteúdo Complementar:
@@ -15,7 +15,7 @@ Conteúdo Complementar:
 
 <br>
 
-## 20/04/2021 - Introdução ao Python (Parte 1)
+### 20/04/2021 - Introdução ao Python (Parte 1)
 [Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
 
 Conteúdo Complementar:
