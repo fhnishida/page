@@ -1,5 +1,5 @@
 # Macroeconomia I (2021) - Monitoria
-[Página da Disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada por prof. Fernando Barros Jr
+[Página da Disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada pelo prof. Fernando Barros Jr
 
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 <br>
