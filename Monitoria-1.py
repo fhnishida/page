@@ -40,7 +40,7 @@ https://jornal.usp.br/universidade/nova-parceria-oferece-mais-cursos-on-line-a-c
 # Rodar única linha: Selecionar a linha (ou realçá-la inteira) + F9
 2 + 1*3 - 4**2
 # É possível rodar apenas parte do código, selecionando parte da linha
-# Teste na linha de código acima, rodar apenas "2 + 1 * 3 - 4" (igual a 1)
+# Teste na linha de código acima, rodar apenas "2 + 1*3 - 4" (igual a 1)
 
 # Rodar várias linhas: Realçar várias linhas + F9
 2 ** 3
@@ -207,17 +207,6 @@ else:
         
 # PRACTICE QUIZ: https://www.coursera.org/learn/ciencia-computacao-python-conceitos/quiz/1cG2Z/execucao-condicional
 
-
-# EXERCÍCIO: Calcular raízes reais pela fórmula de Bháskara
-# Considerar casos em que delta é positivo, zero ou negativo (sem raízes reais)
-# Testar para os casos:
-#   • a = 10, b = 25, c = 10
-#   • a = 10, b = 20, c = 10
-#   • a = 10, b = 10, c = 10
-# https://www.coursera.org/learn/ciencia-computacao-python-conceitos/lecture/KSJBH/exercicio-resolvido
-# *não precisa usar o "input", pode inserir o valor a "a", "b" e "c" diretamente
-# *para a raiz quadrada, pode usar "** (1/2)"
-x = input("Digite um número: ")
 
 
 ##############################################################################
