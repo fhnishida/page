@@ -16,7 +16,7 @@ Conteúdo Complementar:
 <br>
 
 ## 20/04/2021 - Introdução ao Python (Parte 1)
-[Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1a6BmttyjGzxT8b2hMV7Zg6BtJ3b61Lxr/view?usp=sharing) | [Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
 
 Conteúdo Complementar:
 - [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html) (Sugestão: instalar via Standalone Installer ou Anaconda)
