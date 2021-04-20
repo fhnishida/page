@@ -22,7 +22,7 @@ Conteúdo Complementar:
 - [Guia de Instalação do Spyder](https://docs.spyder-ide.org/current/installation.html) (Sugestão: instalar via Standalone Installer ou Anaconda)
 - [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
 
-<br><br>
+<br><br><br>
 # Davidson & MacKinnon. Econometric Theory and Methods. (1999)
 
 [Exercise 3.1](https://fhnishida.github.io/homework/ex_3-1_Dadvison-MacKinnon.html)
