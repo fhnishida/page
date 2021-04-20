@@ -4,6 +4,16 @@
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 <br>
 
+## 27/04/2021 - Introdução ao Python (Parte 2)
+[Código Python](https://fhnishida.github.io/page/Monitoria-2.py)
+
+Conteúdo Complementar:
+- [PEP 8 (Boas Práticas de Programação em Python)](https://pep8.org/)
+- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
+- [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
+
+<br>
+
 ## 20/04/2021 - Introdução ao Python (Parte 1)
 [Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
 
