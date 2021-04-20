@@ -2,6 +2,7 @@
 [Página da Disciplina](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i) lecionada pelo prof. Fernando Barros Jr
 
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
+
 <br>
 
 ## 27/04/2021 - Introdução ao Python (Parte 2)
