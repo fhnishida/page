@@ -6,7 +6,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 27/04/2021 - Introdução ao Python (Parte 2)
-[Código Python](https://fhnishida.github.io/page/Monitoria-2.py)
+[Código Python (versão 2)](https://fhnishida.github.io/page/Monitoria-2_v2.py)
 
 Conteúdo Complementar:
 - [PEP 8 (Boas Práticas de Programação em Python)](https://www.python.org/dev/peps/pep-0008/)
