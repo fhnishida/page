@@ -5,13 +5,25 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
-## 27/04/2021 - Introdução ao Python (Parte 2)
-[Código Python (versão 2)](https://fhnishida.github.io/page/Monitoria-2_v2.py)
+## 04/05/2021
+### Introdução ao Python (Parte 3)
+[Código Python](https://fhnishida.github.io/page/Monitoria-3.py)
 
 Conteúdo Complementar:
 - [PEP 8 (Boas Práticas de Programação em Python)](https://www.python.org/dev/peps/pep-0008/)
-- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
+- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)P)
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
+
+### Lista 1
+(...)
+
+<br>
+
+## 27/04/2021 - Introdução ao Python (Parte 2)
+[Vídeo da Monitoria](https://drive.google.com/file/d/15Ua2psUdaOkbKR4JAUqzvCmtPyMsCGdS/view?usp=sharing) | [Código Python (versão 3)](https://fhnishida.github.io/page/Monitoria-2_v3.py)
+
+Conteúdo Complementar:
+- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)P)
 
 <br>
 
