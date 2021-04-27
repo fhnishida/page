@@ -11,7 +11,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 Conteúdo Complementar:
 - [PEP 8 (Boas Práticas de Programação em Python)](https://www.python.org/dev/peps/pep-0008/)
-- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)P)
+- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
 ### Lista 1
@@ -23,7 +23,7 @@ Conteúdo Complementar:
 [Vídeo da Monitoria](https://drive.google.com/file/d/15Ua2psUdaOkbKR4JAUqzvCmtPyMsCGdS/view?usp=sharing) | [Código Python (versão 3)](https://fhnishida.github.io/page/Monitoria-2_v3.py)
 
 Conteúdo Complementar:
-- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)P)
+- [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
 
 <br>
 
