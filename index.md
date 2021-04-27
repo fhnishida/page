@@ -6,7 +6,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 04/05/2021
-### Introdução ao Python (Parte 3)
+### Introdução ao Python (Parte 3): Matrizes, Repetição (For), Repetições Encaixadas, Algoritmos Recursivos e Gráficos
 [Código Python](https://fhnishida.github.io/page/Monitoria-3.py)
 
 Conteúdo Complementar:
@@ -19,7 +19,7 @@ Conteúdo Complementar:
 
 <br>
 
-## 27/04/2021 - Introdução ao Python (Parte 2)
+## 27/04/2021 - Introdução ao Python (Parte 2): Listas, Módulos e Matrizes
 [Vídeo da Monitoria](https://drive.google.com/file/d/15Ua2psUdaOkbKR4JAUqzvCmtPyMsCGdS/view?usp=sharing) | [Código Python (versão 3)](https://fhnishida.github.io/page/Monitoria-2_v3.py)
 
 Conteúdo Complementar:
@@ -27,7 +27,7 @@ Conteúdo Complementar:
 
 <br>
 
-## 20/04/2021 - Introdução ao Python (Parte 1)
+## 20/04/2021 - Introdução ao Python (Parte 1): Operações, Variáveis, Execução Condicional, Funções e Repetição (While)
 [Vídeo da Monitoria](https://drive.google.com/file/d/1a6BmttyjGzxT8b2hMV7Zg6BtJ3b61Lxr/view?usp=sharing) | [Código Python](https://fhnishida.github.io/page/Monitoria-1.py)
 
 Conteúdo Complementar:
