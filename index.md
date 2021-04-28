@@ -21,6 +21,7 @@ Conteúdo Complementar:
 
 ## 27/04/2021 - Introdução ao Python (Parte 2): Listas, Módulos e Matrizes
 [Vídeo da Monitoria](https://drive.google.com/file/d/15Ua2psUdaOkbKR4JAUqzvCmtPyMsCGdS/view?usp=sharing) | [Código Python (versão 3)](https://fhnishida.github.io/page/Monitoria-2_v3.py)
+*Por algum motivo, o vídeo ficou na qualidade de visualização em 360p. Talvez seja interessante baixar para ver em 720p.
 
 Conteúdo Complementar:
 - [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
