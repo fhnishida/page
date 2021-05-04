@@ -16,7 +16,7 @@ Conteúdo Complementar:
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
 ### Lista 1
-(...)
+[Resolução da Lista 1](https://fhnishida.github.io/page/Lista-1_Resolucao.pdf)
 
 <br>
 
