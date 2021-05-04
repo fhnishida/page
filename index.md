@@ -7,10 +7,11 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 ## 04/05/2021
 ### Introdução ao Python (Parte 3): Matrizes, Repetição (For), Repetições Encaixadas, Algoritmos Recursivos e Gráficos
-[Código Python](https://fhnishida.github.io/page/Monitoria-3.py)
+[Código Python](https://fhnishida.github.io/page/Monitoria-3_v2.py)
 
 Conteúdo Complementar:
 - [PEP 8 (Boas Práticas de Programação em Python)](https://www.python.org/dev/peps/pep-0008/)
+- [Pyplot Tutorial](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html)
 - [Curso "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) de Fábio Kon (IME-USP)
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
