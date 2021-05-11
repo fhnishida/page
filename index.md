@@ -7,7 +7,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 ## 11/05/2021 - Modelo de Crescimento Neoclássico
 ### Iteração Numérica da Função Valor
-[Apresentação](https://fhnishida.github.io/page/AP_Monitoria-4.pdf) | [Código Python](https://fhnishida.github.io/page/Monitoria-4.py)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1BkVCeyBYiTEgeSIDBRPY06syOTgAFspU/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-4.pdf) | [Código Python](https://fhnishida.github.io/page/Monitoria-4.py)
 
 
 <br>
