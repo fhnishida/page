@@ -217,7 +217,7 @@ plt.show()
 
 # Estabelecendo os parâmetros
 k_grid = np.array([0.04, 0.08, 0.12, 0.16, 0.20])  # Possíveis valores de k e k'
-# k_grid = np.linspace(0.001, 0.999, 999)
+# k_grid = np.linspace(0.001, 0.5, 201)
 beta = 0.6
 alpha = 0.3
 
@@ -287,7 +287,6 @@ ax.plot(k_grid, vn[8], label='$v_8$')
 ax.plot(k_grid, vn[10], label='$v_{10}$')
 ax.plot(k_grid, vn[15], label='$v_{15}$')
 ax.plot(k_grid, vn[n], label='$v_{convergido}$')
-ax.plot(k_grid, v, label='$v_{real}$')
 
 # Legendas
 ax.set_xlabel('Capital')
@@ -327,16 +326,16 @@ plt.show()
 
 # Encontrar numericamente o capital estocástico k* [Slide 10]
 p = int(np.round(np.random.uniform(0, n_k - 1, size = 1), 0))  # aleatório
-print("Índice inicial do capital:", p)  # Índice randomizado
+print("Índice inicial do capital (randomizado):", p)  # Índice randomizado
 
+t = 0  # Contagem de períodos
 while k_grid[p] != gn[n][p]:  # até termos k = k'
-    q = 0  # Se k != k', então no período seguinte k = k'
-    while k_grid[q] != gn[n][p]:  # Busca do índice correspondente de k'
-        q += 1
-    p = q  # Aplica o índice de k' em k, e vai em outro loop
-
+    p = np.where(k_grid == gn[n][p])[0][0]  # Aplica o índice de k' em k
+    t += 1
 print("Índice do capital estacionário:", p)  # Índice do capital estacionário
 print("Capital estacionário k* =", np.round(k_grid[p], 4))
+print("Foram necessários", t, "períodos para atingir o estado estacionário.")
+
 
 
 # Calcular o consumo c = f(k) - k'
