@@ -147,15 +147,15 @@ type(vn[1][0])
 # Loop das iterações 4 a 10 com o código feito na 3ª iteração
 for n in range(4, 11): 
     # criando função valor genérica para preencher em cada iteração
-    v = np.zeros(n_k)
+    Tv = np.zeros(n_k)
     
     for i in range(n_k):  # Loop de k (i é índice de k)
         for j in range(n_k):  # Loop de k (i é índice de k)
         	f_obj[i,j] = log(k_grid[i]**alpha - k_grid[j]) + beta*vn[n-1][j]
-        v[i] = max(f_obj[i,:])  # Pegando o maior valor da linha
+        Tv[i] = max(f_obj[i,:])  # Pegando o maior valor da linha
     
     # Quando terminar loop das linhas, jogar função valor em vn
-    vn.append(v)
+    vn.append(Tv)
     norm = max(abs(vn[n] - vn[n-1]))
     print(norm)
 
@@ -324,7 +324,7 @@ plt.show()
 # k estacionário teórico (apenas para comparação)
 (alpha * beta) ** (1 / (1 - alpha))
 
-# Encontrar numericamente o capital estocástico k* [Slide 10]
+# Encontrar numericamente o capital estacionário k* [Slide 10]
 p = int(np.round(np.random.uniform(0, n_k - 1, size = 1), 0))  # aleatório
 print("Índice inicial do capital (randomizado):", p)  # Índice randomizado
 
