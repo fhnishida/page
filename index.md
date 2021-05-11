@@ -5,7 +5,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
-## 11/05/2021 - Iteração Numérica da Função Valor (Krueger, 2017 - Seção 3.2.3)
+## 11/05/2021 - Iteração Numérica da Função Valor
 [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-4.pdf) | [Código Python](https://fhnishida.github.io/page/Monitoria-4.py)
 
 
