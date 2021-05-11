@@ -245,7 +245,6 @@ while norma > tol_norma:
     f_obj = np.zeros((n_k, n_k))
     n += 1
     
-    # MUDAR PARA K e K_PRIME
     for i in range(n_k):  # Loop de k (i é índice de k)
         for j in range(n_k):  # Loop de k (i é índice de k)
             if k_grid[j] >= 0 and k_grid[j] <= k_grid[i]**alpha:
