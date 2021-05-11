@@ -176,7 +176,7 @@ for i in range(n_k):
 
 
 ##############################################################################
-""" Visualização da convergência da função valor """
+""" Visualização da convergência da função valor [Slide 8] """
 
 import matplotlib.pyplot as plt  # Módulo para fazer gráficos
 fig, ax = plt.subplots()
@@ -273,7 +273,7 @@ for funcao in gn:
 gn[n]  # Função política da última iteração com valores de k'
 
 
-# Visualização gráfica da convergência da função valor
+# Visualização gráfica da convergência da função valor [Slide 8] 
 import matplotlib.pyplot as plt  # Módulo para fazer gráficos
 fig, ax = plt.subplots()
 
@@ -298,7 +298,7 @@ ax.legend()
 plt.show()
 
 
-# Visualização gráfica da convergência da função política
+# Visualização gráfica da convergência da função política [Slide 9] 
 fig, ax = plt.subplots()
 
 # Inclusão de cada função valor no gráfico
@@ -325,7 +325,7 @@ plt.show()
 # k estacionário teórico (apenas para comparação)
 (alpha * beta) ** (1 / (1 - alpha))
 
-# Encontrar numericamente o capital estocástico k*
+# Encontrar numericamente o capital estocástico k* [Slide 10]
 p = int(np.round(np.random.uniform(0, n_k - 1, size = 1), 0))  # aleatório
 print("Índice inicial do capital:", p)  # Índice randomizado
 
