@@ -5,6 +5,12 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
+## 11/05/2021 - Iteração Numérica da Função Valor (Krueger, 2017 - Seção 3.2.3)
+[Apresentação](https://fhnishida.github.io/page/AP_Monitoria-4.pdf) | [Código Python](https://fhnishida.github.io/page/Monitoria-4.py)
+
+
+<br>
+
 ## 04/05/2021
 ### Introdução ao Python (Parte 3): Matrizes, Repetição (For), Repetições Encaixadas, Algoritmos Recursivos e Gráficos
 [Vídeo da Monitoria](https://drive.google.com/file/d/1zfzCO_3ZojUfUhg53t-ybfd6bWz7_7Js/view?usp=sharing) | [Código Python (versão 2)](https://fhnishida.github.io/page/Monitoria-3_v2.py)
