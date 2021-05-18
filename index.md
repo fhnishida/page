@@ -5,6 +5,12 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
+## 18/05/2021 - Lista 2
+[Resolução da Lista](https://fhnishida.github.io/page/Lista-2_Resolucao.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-2_v2.py)
+
+
+<br>
+
 ## 11/05/2021 - Modelo de Crescimento Neoclássico
 ### Iteração Numérica da Função Valor
 [Vídeo da Monitoria](https://drive.google.com/file/d/1BkVCeyBYiTEgeSIDBRPY06syOTgAFspU/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-4.pdf) | [Código Python](https://fhnishida.github.io/page/Monitoria-4.py)
@@ -23,7 +29,7 @@ Conteúdo Complementar:
 - [Curso "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) de Fábio Kon (IME-USP)
 
 ### Lista 1
-[Resolução da Lista 1 (versão 2)](https://fhnishida.github.io/page/Lista-1_Resolucao_v2.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-1.py)
+[Resolução da Lista (versão 2)](https://fhnishida.github.io/page/Lista-1_Resolucao_v2.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-1.py)
 
 <br>
 
