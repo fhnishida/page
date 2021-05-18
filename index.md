@@ -6,7 +6,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 18/05/2021 - Lista 2
-[Resolução da Lista](https://fhnishida.github.io/page/Lista-2_Resolucao.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-2_v2.py)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1kC_uHz50KKKsvNhanZYTHbYgCn2Rq89P/view?usp=sharing) | [Resolução da Lista](https://fhnishida.github.io/page/Lista-2_Resolucao.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-2_v2.py)
 
 
 <br>
