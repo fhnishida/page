@@ -7,7 +7,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 ## 25/05/2021
 ### Modelo de Crescimento Neoclássico com Incerteza e Escolha de Trabalho
-Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-6.pdf) | [Código Python (Incerteza)](https://fhnishida.github.io/page/Monitoria-6_incerteza.py) | [Código Python (Trabalho)](https://fhnishida.github.io/page/Monitoria-6_trabalho.py)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1cgK6bRDO1eHahDGR4JPlC5ABnpARKRhK/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-6.pdf) | [Código Python (Incerteza)](https://fhnishida.github.io/page/Monitoria-6_incerteza.py) | [Código Python (Trabalho)](https://fhnishida.github.io/page/Monitoria-6_trabalho.py)
 
 
 ### Lista 3
