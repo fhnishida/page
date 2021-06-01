@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lista 4 de Macroeconomia I (Parte 1) de 2021
-25/05/2021 - author: Fábio Nishida
+01/06/2021 - author: Fábio Nishida
 """
 
 # Importando módulos necessários
