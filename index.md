@@ -3,6 +3,13 @@ Página da Disciplina (prof. Fernando Barros Jr): [https://sites.google.com/view
 
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 
+
+<br>
+
+## 18/05/2021 - Lista 2
+Vídeo da Monitoria | [Resolução da Lista](https://fhnishida.github.io/page/Lista-4_Resolucao.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-4.py)
+
+
 <br>
 
 ## 25/05/2021
