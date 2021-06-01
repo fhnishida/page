@@ -151,7 +151,7 @@ while norma > tol_norma and it < tol_it:
                         f_obj[i_k, i_z, i_kk, i_n] = -np.inf
             
             # Preenchida uma matriz kk x n, encontrar elemento que maximiza
-            indice_max = np.argmax(f_obj[i_k, i_z])
+            indice_max = np.argmax(f_obj[i_k, i_z])  # Maximiza matriz definida por k e z (e de dimensão k' e n)
             indice_gk = indice_max // n_n  # Divisão Inteira - Índice de k'
             indice_gn = indice_max % n_n  # Resto da Divisão - Índice de n
             
