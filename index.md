@@ -7,7 +7,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 01/06/2021 - Lista 4
-Vídeo da Monitoria | [Resolução da Lista](https://fhnishida.github.io/page/Lista-4_Resolucao.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-4.py)
+Vídeo da Monitoria | [Resolução da Lista (versão 2)](https://fhnishida.github.io/page/Lista-4_Resolucao_v2.pdf) | [Código Python](https://fhnishida.github.io/page/Lista-4.py)
 
 
 <br>
