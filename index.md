@@ -1,8 +1,20 @@
-# Macroeconomia I (2021) - Monitoria
-Página da Disciplina (prof. Fernando Barros Jr): [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
-
+# Macroeconomia I - Parte 2 (2021) - Monitoria
+Página da Disciplina (prof. Luciano Nakabashi): [https://edisciplinas.usp.br/course/view.php?id=89644]
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 
+<br>
+
+## 22/06/2021 - Seção 2.4: Otimização Dinâmica de um Monopolista: Modelo de Evans
+[Vídeo da Monitoria](https://drive.google.com/file/d/1rc7qyg42_lWewtUXfjs1SmUY0Am-qm2i/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-1_pt2.pdf)
+
+### Provas anteriores:
+- [Prova de 2020](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n12.pdf)
+- [Prova de 2019](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2019.pdf)
+
+
+<br><br><br>
+# Macroeconomia I - Parte 1 (2021) - Monitoria
+Página da Disciplina (prof. Fernando Barros Jr): [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
 
 <br>
 
