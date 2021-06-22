@@ -15,8 +15,6 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 ---
 
-<br>
-
 # Macroeconomia I - Parte 1 (2021) - Monitoria
 Página da Disciplina (prof. Fernando Barros Jr): [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
 
