@@ -1,5 +1,5 @@
 # Macroeconomia I - Parte 2 (2021) - Monitoria
-Página da Disciplina (prof. Luciano Nakabashi): [https://edisciplinas.usp.br/course/view.php?id=89644]
+Página da Disciplina (prof. Luciano Nakabashi): [https://edisciplinas.usp.br/course/view.php?id=89644](https://edisciplinas.usp.br/course/view.php?id=89644)
 
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 
