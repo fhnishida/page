@@ -11,8 +11,10 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 - [Prova de 2020](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n12.pdf)
 - [Prova de 2019](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2019.pdf)
 
+<br>
+---
+<br>
 
-<br><br><br>
 # Macroeconomia I - Parte 1 (2021) - Monitoria
 Página da Disciplina (prof. Fernando Barros Jr): [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
 
