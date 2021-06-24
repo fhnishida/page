@@ -10,7 +10,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 - Versão 2 (24/06/2021): 
   - correção do termo <img src="https://latex.codecogs.com/gif.latex?b (1 + \alpha \beta)"/> para <img src="https://latex.codecogs.com/gif.latex?b (1 + \alpha b)"/> na equação (2.35) e no slide 8; e 
-  - correção do cálculo de $\bar{P}$ que deveria ser somente <img src="https://latex.codecogs.com/gif.latex?\frac{a_3}{a_2}"/> (ao invés de <img src="https://latex.codecogs.com/gif.latex?\sqrt{\frac{a_3}{a_2}}"/>).
+  - correção do cálculo de $\bar{P}$ que deveria ser somente <img src="https://latex.codecogs.com/gif.latex?a_3/a_2"/> (ao invés de <img src="https://latex.codecogs.com/gif.latex?\sqrt{a_3/a_2}"/>).
 
 ### Provas anteriores:
 - [Prova de 2020](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n12.pdf)
