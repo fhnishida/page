@@ -6,7 +6,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 29/06/2021 - Seções 2.5 e 3.2: Trade Off Inflação e Desemprego
-[Vídeo da Monitoria]() | [Apresentação (versão 2)](https://fhnishida.github.io/page/AP_Monitoria-2_pt2.pdf)
+Vídeo da Monitoria | [Apresentação (versão 2)](https://fhnishida.github.io/page/AP_Monitoria-2_pt2.pdf)
 <br>
 
 ## 22/06/2021 - Seção 2.4: Otimização Dinâmica de um Monopolista: Modelo de Evans
