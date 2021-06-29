@@ -20,7 +20,7 @@ Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monit
 - Curso [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
 - Possíveis correções para gerar pdf: [MiKTeX](https://miktex.org/), pacotes _tinytex_ ou _latexpdf_
 
-#### Especializações em R:
+#### Especializações em R
 - Especialização [HarvardX em Data Science](https://www.edx.org/professional-certificate/harvardx-data-science?index=product&queryID=7c853e76cef8eaffced84cd6759b2af1&position=1) (precisa acessar individualmente o curso para fazer gratuitamente)
 - Especialização [John Hopkins em Data Science](https://www.coursera.org/specializations/jhu-data-science) (dá para pegar certificado sem pagar como aluno USP)
 
