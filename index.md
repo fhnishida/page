@@ -12,9 +12,17 @@ Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monit
 
 #### LaTeX
 
-- Curso LaTeX: 
-- Curso R Markdown: [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
+- Curso [LaTeX for Students, Engineers, and Scientists](https://www.edx.org/course/latex-for-students-engineers-and-scientists-2) 
+- [Gerador de Tabelas em LaTeX](https://www.tablesgenerator.com/)
+- [Busca de códigos de símbolos matemáticos](https://detexify.kirelabs.org/classify.html)
 
+#### R Markdown:
+- Curso [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
+- Possíveis correções para gerar pdf: [MiKTeX](https://miktex.org/), pacotes _tinytex_ ou _latexpdf_
+
+#### Especializações em R:
+- Especialização [HarvardX em Data Science](https://www.edx.org/professional-certificate/harvardx-data-science?index=product&queryID=7c853e76cef8eaffced84cd6759b2af1&position=1) (precisa acessar individualmente o curso para fazer gratuitamente)
+- Especialização [John Hopkins em Data Science](https://www.coursera.org/specializations/jhu-data-science) (dá para pegar certificado sem pagar como aluno USP)
 
 <br>
 
