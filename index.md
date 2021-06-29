@@ -22,7 +22,7 @@ Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monit
 
 #### Especializações em R
 - Especialização [HarvardX em Data Science](https://www.edx.org/professional-certificate/harvardx-data-science?index=product&queryID=7c853e76cef8eaffced84cd6759b2af1&position=1) (precisa acessar individualmente cada curso para fazer gratuitamente)
-- Especialização [John Hopkins em Data Science](https://www.coursera.org/specializations/jhu-data-science) (dá para pegar certificado sem pagar como aluno USP)
+- Especialização [John Hopkins em Data Science](https://www.coursera.org/specializations/jhu-data-science) (certificado sem pagar como aluno USP)
 
 <br>
 
