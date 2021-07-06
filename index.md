@@ -9,7 +9,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
 
 ### Conteúdo Complementar
-[Condições de Kuhn-Tucker e Equações Diferenciais](https://fhnishida.github.io/page/AP_KuhnTucker_EqDif.pdf)
+- [Condições de Kuhn-Tucker e Equações Diferenciais](https://fhnishida.github.io/page/AP_KuhnTucker_EqDif.pdf)
 
 <br>
 
