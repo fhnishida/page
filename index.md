@@ -6,7 +6,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 <br>
 
 ## 06/07/2021 - Seção 7.6: Ciclo Político-Econômico -- Modelo de Nordhaus
-Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1KvuVgSpll0EV_UyEPwsJhIHzebiUJCRK/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
 
 ### Conteúdo Complementar
 - [Condições de Kuhn-Tucker e Equações Diferenciais](https://fhnishida.github.io/page/AP_KuhnTucker_EqDif.pdf)
