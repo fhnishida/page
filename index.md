@@ -5,7 +5,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
-## 06/07/2021 - Seção 7.6: Ciclo Político-Econômico
+## 06/07/2021 - Seção 7.6: Ciclo Político-Econômico -- Modelo de Nordhaus
 Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
 
 ### Conteúdo Complementar
@@ -34,7 +34,7 @@ Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monit
 
 <br>
 
-## 22/06/2021 - Seção 2.4: Otimização Dinâmica de um Monopolista: Modelo de Evans
+## 22/06/2021 - Seção 2.4: Otimização Dinâmica de um Monopolista -- Modelo de Evans
 [Vídeo da Monitoria](https://drive.google.com/file/d/1rc7qyg42_lWewtUXfjs1SmUY0Am-qm2i/view?usp=sharing) | [Apresentação (versão 2)](https://fhnishida.github.io/page/AP_Monitoria-1_pt2_v2.pdf)
 
 - Versão 2 (24/06/2021): 
