@@ -5,6 +5,14 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 
 <br>
 
+## 06/07/2021 - Seção 7.6: Ciclo Político-Econômico
+Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
+
+### Conteúdo Complementar
+[Condições de Kuhn-Tucker e Equações Diferenciais](https://fhnishida.github.io/page/AP_KuhnTucker_EqDif.pdf)
+
+<br>
+
 ## 29/06/2021 - Seções 2.5 e 3.2: Trade Off Inflação e Desemprego
 [Vídeo da Monitoria](https://drive.google.com/file/d/1Md2HgqrOTLdtXdNrfmEmhDa5trHe-yYT/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-2_pt2.pdf)
 
