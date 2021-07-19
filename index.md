@@ -3,6 +3,9 @@ Página da Disciplina (prof. Luciano Nakabashi): [https://edisciplinas.usp.br/co
 
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 
+## 19/07/2021 - Lista 3
+[Resolução da Lista](https://fhnishida.github.io/page/Lista 3.pdf)
+
 <br>
 
 ## 16/07/2021 - Lista 1
