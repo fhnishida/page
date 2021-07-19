@@ -50,7 +50,7 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
   - correção do cálculo de <img src="https://latex.codecogs.com/gif.latex?\bar{P}"/> (slide 8) que deveria ser somente <img src="https://latex.codecogs.com/gif.latex?a_3/a_2"/> (ao invés de <img src="https://latex.codecogs.com/gif.latex?\sqrt{a_3/a_2}"/>).
 
 ### Provas anteriores:
-- [Prova de 2020](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n12.pdf)
+- [Prova de 2020 v12](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n12.pdf) | [Prova de 2020 v7](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2020_n7.pdf)
 - [Prova de 2019](https://fhnishida.github.io/page/Macro-I_pt2_Prova-2019.pdf)
 
 <br>
