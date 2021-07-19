@@ -7,19 +7,16 @@ Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-
 Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-5_pt2.pdf)
 
 ### Lista 2
-Resolução da Lista
+[Resolução da Lista](https://fhnishida.github.io/page/Parte-2_Lista-2_Resolucao.pdf)
 
 <br>
 
-## 19/07/2021 - Lista 3
-[Lista 3](https://fhnishida.github.io/page/Lista_3.pdf)
-
-<br>
 
 ## 16/07/2021 - Lista 1
 [Resolução da Lista](https://fhnishida.github.io/page/Parte-2_Lista-1_Resolucao.pdf)
 
 <br>
+
 
 ## 06/07/2021 - Seção 7.6: Ciclo Político-Econômico -- Modelo de Nordhaus
 [Vídeo da Monitoria](https://drive.google.com/file/d/1KvuVgSpll0EV_UyEPwsJhIHzebiUJCRK/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-3_pt2.pdf)
