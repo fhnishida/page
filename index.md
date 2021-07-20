@@ -4,7 +4,7 @@ Página da Disciplina (prof. Luciano Nakabashi): [https://edisciplinas.usp.br/co
 Google Meet: [https://meet.google.com/iqn-mvku-vwc](https://meet.google.com/iqn-mvku-vwc)
 
 ## 20/07/2021 - Seção 9.3: Modelo Neoclássico de Crescimento Ótimo
-Vídeo da Monitoria | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-5_pt2.pdf)
+[Vídeo da Monitoria](https://drive.google.com/file/d/1xnYlF8u8ENYp8HpVthghAb8p5N8UeFdL/view?usp=sharing) | [Apresentação](https://fhnishida.github.io/page/AP_Monitoria-5_pt2.pdf)
 
 ### Lista 2
 [Resolução da Lista](https://fhnishida.github.io/page/Parte-2_Lista-2_Resolucao.pdf)
